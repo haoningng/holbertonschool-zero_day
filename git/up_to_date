@@ -1,1 +1,1 @@
-git add -p
+git pull origin master
